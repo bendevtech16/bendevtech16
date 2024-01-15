@@ -1,13 +1,14 @@
 
 ![logo](https://github.com/bendevtech16/bendevtech16/assets/116570969/5fb7ebaf-5955-4b5f-ad48-6ca2d0eb5014)
-always busy, always on the grind
+
+                                        always busy, always on the grind
 
 ### Hi there 👋
 
 
 package com.Bendevtech;
 
-public class RealTehcMan implements AwesomeProgrammer {
+public class BenDevTech implements AwesomeProgrammer {
     private final String fullFirstName = "Benjamin";
     private final String university = "University of yaounde 1 (Cameroon)";
     private final String degree = "Bachelor degree";
