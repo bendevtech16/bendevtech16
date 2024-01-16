@@ -3,7 +3,7 @@
 
                                         always busy, always on the grind
 
-                                             ### Hi there 👋
+                                                   ### Hi there 👋
 
 
 
@@ -38,7 +38,7 @@ public class BenDevTech implements AwesomeProgrammer {
         return new ArrayList<>(Arrays.asList(
                 "Productivity nerd",
                 "Language enthusiast",
-                "Crypto/stock investor"));
+                "Architecture/art"));
     }
 }
 
