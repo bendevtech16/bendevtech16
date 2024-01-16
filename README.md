@@ -12,9 +12,13 @@
 package com.Bendevtech;
 
 public class BenDevTech implements AwesomeProgrammer {
+
     private final String fullFirstName = "Benjamin";
+    
     private final String university = "University of yaounde 1 (Cameroon)";
+    
     private final String degree = "Bachelor degree";
+    
     private final String workPlace = "CS Consulting";
 
     private String currentFocus = "Full stack Developer";
